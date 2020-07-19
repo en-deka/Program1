@@ -1,6 +1,6 @@
 //**********************************************************************
 // Cipher.java 		Author: Allison Fischer
-// Summer 2020			PROGRAMMING ASSIGNMENT 1
+// Summer 2020		PROGRAMMING ASSIGNMENT 1
 // 
 // Encodes the sum of five user input numbers in range 0 - 19 inclusive
 // using a Caesar Code.
